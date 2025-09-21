@@ -22,7 +22,8 @@ int main()
     printf("\ninvalid input. Age and income must be a positive number");
 	printf("\n congratulations you are eligible for a loan");
 	}
-	else{
+	else(age<21 && income<20000);
+	{
 	printf("\n unfortunately we are unable to offer you a loan at this time");
 	}
 	return 0;
