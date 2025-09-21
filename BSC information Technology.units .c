@@ -20,4 +20,5 @@ int main()
 	printf("communication skills :\n") ;
 	printf("introduction to computer application :\n");
 	printf("A total of eight units for group A in semester one ");
+return 0;
 }
