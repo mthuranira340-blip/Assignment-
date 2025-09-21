@@ -13,7 +13,6 @@ int main()
     int height;
     int contact;
     int weight;
-    int age;
 
     printf("enter your height:");
     scanf("%d", &height);
@@ -27,7 +26,5 @@ int main()
     scanf("%d", &weight);
     printf("your weight is %d \n", weight);
 
-    printf("enter your age:");
-    scanf("%d", &age);
-    printf("your age is %d \n", age);
+    return 0;
 }
