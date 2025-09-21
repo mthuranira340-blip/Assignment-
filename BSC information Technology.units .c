@@ -1,4 +1,4 @@
-// sime c lrogram
+// sime c program
 /* 
 name  Mark  Thuranira 
 reg no ct100/g/26254/25
