@@ -19,6 +19,7 @@ int main()
 	scanf("%f",&income);
 	
 	if(age >=21 && income >=21000){
+		printf("\ninvalid input. Age and income must be a positive number");
 	printf("\n congratulations you are eligible for a loan");
 	}
 	else{
