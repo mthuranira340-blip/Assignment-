@@ -1,7 +1,7 @@
 /*
 name mark Thuranira
 reg ct100/g/26254/25
-des  checking for eligibilitybof a bank loan
+des  checking for eligibilityb of a bank loan
 */
 
 #include<stdio.h>
