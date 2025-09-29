@@ -19,7 +19,7 @@ int main()
     printf("enter your average marks:");
 	scanf("%f", &marks);
 
-	// we use the if  else  t check the eligibility
+	// we use the if  else  check the eligibility
 	if(attendance >= 75 && marks>=40){
 		printf("eligible for exam");
 	}else
@@ -28,4 +28,5 @@ int main()
 	}
 	
 		return 0;
+
 }
